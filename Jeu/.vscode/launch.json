@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ProducerConsumerSemaphoreExample",
+            "request": "launch",
+            "mainClass": "ProducerConsumerSemaphoreExample",
+            "projectName": "Jeu_8b5741b0"
+        },
+        {
+            "type": "java",
+            "name": "Launch ProducerConsumerExample",
+            "request": "launch",
+            "mainClass": "ProducerConsumerExample",
+            "projectName": "Jeu_8b5741b0"
+        },
+        {
+            "type": "java",
+            "name": "Launch DesordreThread",
+            "request": "launch",
+            "mainClass": "DesordreThread",
+            "projectName": "Jeu_8b5741b0"
+        },
+        {
+            "type": "java",
+            "name": "Launch ok",
+            "request": "launch",
+            "mainClass": "ok",
+            "projectName": "Jeu_8b5741b0"
+        },
+        {
+            "type": "java",
+            "name": "Launch StartGameWindow",
+            "request": "launch",
+            "mainClass": "StartGameWindow",
+            "projectName": "Jeu_8b5741b0"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumWithThreads",
+            "request": "launch",
+            "mainClass": "thread.SumWithThreads",
+            "projectName": "Jeu_34b83f52"
+        },
+        {
+            "type": "java",
+            "name": "Launch StartGameWindow",
+            "request": "launch",
+            "mainClass": "StartGameWindow",
+            "projectName": "Jeu_34b83f52"
+        },
+        {
+            "type": "java",
+            "name": "Launch StartGameWindow",
+            "request": "launch",
+            "mainClass": "Jeux_d_araignee.StartGameWindow",
+            "projectName": "Jeux_d_araignee_a5466d92"
+        },
+        {
+            "type": "java",
+            "name": "Launch FenetreAvecImageDeFond",
+            "request": "launch",
+            "mainClass": "FenetreAvecImageDeFond",
+            "projectName": "Jeux_d_araignee_a5466d92"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReglesDuJeuFrame",
+            "request": "launch",
+            "mainClass": "ReglesDuJeuFrame",
+            "projectName": "Jeux_d_araignee_a5466d92"
+        },
+        {
+            "type": "java",
+            "name": "Launch FenetreJeu",
+            "request": "launch",
+            "mainClass": "FenetreJeu",
+            "projectName": "Jeux_d_araignee_a5466d92"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch GameTest",
+            "request": "launch",
+            "mainClass": "GameTest",
+            "projectName": "Jeux_d_araignee_a5466d92"
+        },
+        {
+            "type": "java",
+            "name": "Launch StartGameWindow",
+            "request": "launch",
+            "mainClass": "StartGameWindow",
+            "projectName": "Jeux_d_araignee_a5466d92"
+        }
+    ]
+}
